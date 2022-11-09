@@ -1,5 +1,5 @@
 # CoalCarAssign  
-To build a level, grab and place green cubes on the "Build Table".  
+To build a level, grab, place, and orient green cubes on the "Build Table".  
 This will create a larger version of the cubes in front of you on the "Build Floor".  
 To create more cubes, tap the blue "Spawn" cube.  
 To delete the cubes, put them into the red "Delete" cube on the right.  
